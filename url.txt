@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+https://yoga-p2m1-customer-churn.herokuapp.com/
